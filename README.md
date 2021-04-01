@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HarrisSuMalluege
 - 👀 I’m interested in Full Stack Web develop
 - 🌱 I’m currently re-learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn https://www.linkedin.com/in/qizhou-s-a65043aa/
 
 
